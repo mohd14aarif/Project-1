@@ -1,0 +1,82 @@
+body{
+    background-color:rgb(242, 244, 247);
+    padding-bottom: 164px;
+    padding-top: 20px;
+    margin-left:250px;
+    margin-right: 250px;
+}
+#title{
+    
+    padding-top: 112px;
+    padding-bottom: 0px !important;
+    margin-bottom: 0px !important;
+    margin-top: 30px;
+    padding-bottom: -px;
+
+}
+#main{
+   margin: 0%;
+}
+#para{
+    font-family:SFProDisplay-Regular, Helvetica, Arial, sans-serif ;
+    font-size:28px;
+    line-height:32px;
+    font-weight:400;
+    padding-left: 30px;
+    margin: 0px 0px 0px 0px;
+    padding-top: 0 px !important;
+   
+    
+}
+#paragph{
+    margin-top: 1rem;
+}
+#up{
+    padding-left: 40rem;
+    margin-top: -14rem;
+}
+.inpt{
+    font-size: 17px;
+    line-height: 16px;
+    color:rgb(29, 33, 41);
+    background-color:rgb(255, 255, 255);	
+    vertical-align:middle;
+    letter-spacing:normal;
+    word-spacing:0px;
+    font-weight:400;
+   
+    
+
+}
+#ln{
+    color: rgb(237,238,240);
+}
+#frgt{
+    text-decoration: none;
+    text-align: center;
+    font-size:14px;
+    font-weight:500;
+
+}
+#new{
+    background-color: #42b72a;
+    width: 12rem;
+    height: 3.9rem;
+    text-align: center;
+    font-size: 17px;
+    line-height:48px;
+    vertical-align:middle;
+    letter-spacing:normal;
+    word-spacing:0px;
+    margin-left: 5.28rem;
+    margin-top: -1.6rem;
+}
+#one{
+    margin-left: 41rem;
+    margin-top: 1.5rem;
+   text-decoration: none !important;
+}
+
+#one :hover{
+    text-decoration: underline !important;
+}
